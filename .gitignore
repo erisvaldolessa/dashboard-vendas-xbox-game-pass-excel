@@ -1,0 +1,12 @@
+# Arquivos temporários do Microsoft Office
+~$*
+*.tmp
+*.bak
+*.xlsm
+
+# Dados particulares ou backups locais
+privado/
+private/
+*.local.xlsx
+.DS_Store
+Thumbs.db
